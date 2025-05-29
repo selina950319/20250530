@@ -1,0 +1,14 @@
+{
+  "name": "tamkang-game",
+  "version": "1.0.0",
+  "description": "An interactive game themed around Tamkang University using video recognition technology for hand control.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "ml5": "^0.6.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
